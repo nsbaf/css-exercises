@@ -8,12 +8,13 @@
     font-size: 36px;
 }
 
-.odd.third{
+.adjust-font-size {
     font-size: 24px;
 }
 
-#fourth{
+#fourth {
     background-color: rgb(200, 255, 138);
-    font-size: 24px;
     font-weight: 700;
 }
+/* Since 4th and 3rd element share the same font-size we can use a class to group them
+    together so that we don't duplicate the code */
