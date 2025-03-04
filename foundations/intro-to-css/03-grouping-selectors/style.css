@@ -8,3 +8,7 @@
     background-color: #000000;
     color: hsl(43, 0%, 100%);
 }
+
+.yellow {
+    background-color: rgb(255, 234, 0);
+}
